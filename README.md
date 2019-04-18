@@ -14,7 +14,8 @@ Menu options for new Solus users
 8. Exit
 -------------------------------------------------------------------
 
-Enter your choice [1-5]: 
+Enter your choice: 
+
 
 
 ```
