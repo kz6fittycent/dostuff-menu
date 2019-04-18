@@ -21,7 +21,7 @@ loop=True
   
 while loop:          ## While loop which will keep going until loop = False
     print_menu()    ## Displays menu
-    choice = str(input("Enter your choice [1-5]: "))
+    choice = str(input("Enter your choice: "))
     
     choice = int(choice)
     
