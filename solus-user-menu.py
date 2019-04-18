@@ -53,4 +53,4 @@ while loop:          ## While loop which will keep going until loop = False
         loop=False # This will make the while loop to end as not value of loop is set to False
     else:
         # Any integer inputs other than values 1-5 we print an error message
-        print("Invalid choice, please choose 1-5")
+        print("Invalid choice, please choose a menu item.")
