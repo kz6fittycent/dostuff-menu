@@ -1,5 +1,5 @@
-# solus-user-menu
-Menu options for new Solus users
+# dostuff-menu
+Menu options for whatever
 
 ```
 
